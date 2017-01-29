@@ -1,8 +1,7 @@
 # VoiceLogBot
 A discord bot that logs basic movement in voice channels using node.js and discord.js
 
-npm init
-
+npm init  
 npm install --save discord.js
 
 ![](http://i.imgur.com/6ZQcnPN.png)
