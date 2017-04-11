@@ -7,7 +7,7 @@ npm install discord.js
 ![](http://i.imgur.com/6ZQcnPN.png)
 
 ## Commands
-###!setLogChannel [name]
+### !setLogChannel [name]
 
 Specifies which channel the bot will log to. Might be wise to create a new server role that administrators can opt into for this channel, since it can get pretty noisy.
 
